@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Dhanush P , Currently pursuing my last semester of Graduation at ALIET
 - 🌱 I’m currently learning MERN
-- 
+- 📫 How to reach me: https://www.linkedin.com/in/pamarthidhanush/
 <!--
 **dhanush5a4/dhanush5a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
