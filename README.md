@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Dhanush Pamarthi, Currently pursuing my last semester of Graduation at ALIET
+This is Dhanush Pamarthi, Recent Graduate from ALIET
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me: https://www.linkedin.com/in/pamarthidhanush/
 <!--
