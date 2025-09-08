@@ -1,5 +1,5 @@
 👋 Hi there! I'm Dhanush Pamarthi
-Welcome to my GitHub profile! I'm a recent graduate from ALIET (2024) and an enthusiastic Full Stack Developer with a passion for building impactful solutions. Currently, I am an Associate Technical Consultant at Adyatan Tech, where I specialize in Microsoft Dynamics 365.
+Welcome to my GitHub profile! I'm a recent graduate from ALIET (2024) and an enthusiastic Full Stack Developer with a passion for building impactful solutions. Currently, I am an Associate Technical Consultant at Adyatan Tech, where I specialize in Microsoft Dynamics 365/Power Platform.
 
 🌱 Skills & Technologies
 Full Stack Development: Proficient in Git, GitHub, JavaScript, TypeScript, C#, React
@@ -10,8 +10,11 @@ Marketing
 Field Service
 Ribbon Workbench
 Customizations
+Power Apps,
+Power Automate,
+Power Pages
 💼 Current Role
-As an Associate Technical Consultant at Adyatan Tech, a Microsoft Partner, I leverage my skills to deliver tailored solutions and optimize the Dynamics 365 suite for our clients. My role involves working on:
+As an Power Platform Consultant/Analyst at Synapx, a Microsoft Partner, I leverage my skills to deliver tailored solutions and optimize the Dynamics 365 suite for our clients. My role involves working on:
 
 Customizations and Configurations: Tailoring Dynamics 365 to meet specific business needs
 Integration and Implementation: Ensuring seamless integration of Dynamics 365 with existing systems
